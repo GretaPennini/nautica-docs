@@ -47,8 +47,8 @@ Repositorio del equipo: [nautica-docs] (https://github.com/GretaPennini/nautica-
 | `README.md` | Documentación del proyecto |
 
 - [x] README creado
-- [ ] CHANGELOG añadido
-- [ ] CONTRIBUTING añadido
+- [X] CHANGELOG añadido
+- [X] CONTRIBUTING añadido
 
 ## Licencia
 
