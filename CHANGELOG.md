@@ -4,6 +4,10 @@ Todos los cambios notables de este proyecto se documentan aquí. El formato sigu
 
 ## [Sin publicar]
 
+- Página de alquiler de barcos.
+- Página de publicación de cursos de buceo.
+- Página de venta de artículos de náutica.
+
 ### Añadido
 - Portada con la presentación de la empresa (index.html).
 - Página de contacto (contacto.html).
@@ -11,4 +15,4 @@ Todos los cambios notables de este proyecto se documentan aquí. El formato sigu
 
 ## [1.0.0] - próximamente
 
-Primera versión pública de la web de Náutica Bahía.
+Primera versión pública de la web de Náutica Bahía.m
